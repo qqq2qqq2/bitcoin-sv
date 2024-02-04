@@ -155,7 +155,7 @@ EXTRA_DIST += \
 	test/util/data/txcreatedata_seq0.hex \
 	test/util/data/txcreatedata_seq0.json \
 	test/util/data/txcreatedata_seq1.hex \
-	test/util/data/txcreatedata_seq1.json \
+	test/util/data/2/txcreatedata_seq1.json \
 	test/util/data/txcreatemultisig1.hex \
 	test/util/data/txcreatemultisig1.json \
 	test/util/data/txcreateoutpubkey1.hex \
